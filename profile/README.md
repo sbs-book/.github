@@ -1,6 +1,6 @@
 # Shaken Baby Syndrome: Investigating the Abusive Head Trauma Controversy
 
-[![](img/SBS_Book_MockUp_01.webp)](http://shakenbaby.science/)
+[![](https://github.com/sbs-book/sbs-book.github.io/raw/main/img/SBS_Book_MockUp_01.webp)](http://shakenbaby.science/)
 
 The first collaborative, multidisciplinary **academic textbook** to tackle the scientific reliability of medical determinations of **abusive head injuries** in infants, a highly controversial subject at the intersection of medicine, science, and law.
 
